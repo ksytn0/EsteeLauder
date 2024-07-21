@@ -261,7 +261,7 @@
 /* M7. review event */
 #review_wrap_bg{
     background-color: #292828;
-    position: relative;
+    position:relative;
 }
 #review_wrap_bg::before {
     /* display:block; */
